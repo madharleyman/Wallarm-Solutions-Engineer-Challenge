@@ -22,33 +22,12 @@ Also interesting to look at the Nginx logs and see the number of IP addresses ra
 
 See screenshot of interesting ip’s.
 
-Perhaps a Greenfield Nginx deployment would be better next time to reduce the troubleshooting.
+## Lessons Learnt
+Perhaps a Greenfield Nginx deployment would be better next time to reduce the troubleshooting 😎.
 
 
 
 
-
-## 🚀 Task Breakdown
-
-
-
-### 4️⃣ Document Your Process
-
-📝 Provide an **overview summary** of your deployment and why you chose it.  
-🛠️ Document any **issues encountered and how you resolved them**.  
-📸 Include **relevant logs, screenshots, or outputs** where applicable.  
-
----
-
-## ✅ Evaluation Criteria
-
-Your submission will be evaluated based on:
-
-📌 **Completeness**: Were all required tasks completed?  
-📌 **Clarity**: Is the documentation clear and well-structured?  
-📌 **Troubleshooting**: How well did you document and resolve any issues?  
-📌 **Understanding of the Product**: Did you correctly set up and use the Wallarm filtering node?  
-📌 **Use of Official Documentation**: Did you successfully leverage Wallarm's official resources?  
 
 
 
